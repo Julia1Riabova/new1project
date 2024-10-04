@@ -1,3 +1,8 @@
 img{
-    width: 100px;
+    width: 15wv;
+}
+
+.imgConteiner{
+    display: flex;
+    flex-direction: row;
 }
