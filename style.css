@@ -9,7 +9,7 @@ img{
 
 .imgContainer {
     display: flex;
-    justify-content: space-around; /* Или space-between, если необходимо */
+    /* justify-content: space-around;  */
     align-items: center; /* Выровняет по вертикали */
 }
  body{
