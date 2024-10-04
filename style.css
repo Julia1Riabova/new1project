@@ -2,6 +2,11 @@ img{
     width: 15%;
 }
 
+.cat{
+    border: 5px solid red;
+    width: 25%;
+}
+
 .imgContainer {
     display: flex;
     justify-content: space-around; /* Или space-between, если необходимо */
@@ -10,3 +15,4 @@ img{
  body{
     background-color: blanchedalmond;
  }
+
