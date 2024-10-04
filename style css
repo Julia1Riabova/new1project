@@ -2,7 +2,11 @@ img{
     width: 15%;
 }
 
-.imgConteiner{
+.imgContainer {
     display: flex;
-    flex-direction: row;
+    justify-content: space-around; /* Или space-between, если необходимо */
+    align-items: center; /* Выровняет по вертикали */
 }
+ body{
+    background-color: blanchedalmond;
+ }
